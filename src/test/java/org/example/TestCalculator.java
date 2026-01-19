@@ -2,7 +2,7 @@ package org.example;
 
 import net.datafaker.Faker;
 
-public class TestCalculator {
+ class TestCalculator {
 
 
     public int multiply(int a, int b) {
